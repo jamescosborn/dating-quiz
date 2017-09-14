@@ -1,0 +1,20 @@
+.noStyle {
+  list-style-type: none;
+}
+
+body {
+ font-family: 'Slabo 27px', serif;
+}
+
+.lineMargin {
+  margin: 25px;
+}
+
+.hideResults {
+  display: none;
+  margin: 25px;
+}
+
+h2 {
+  margin-left: 25px;
+}
